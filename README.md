@@ -1,5 +1,3 @@
-# Efren Cabrera 👨🏽‍💻
+# Hi, I'm Efren :computer: · :musical_keyboard:
 
----
-
-Software developer
+- Persona site: efren@cabrera.dev 🌍
